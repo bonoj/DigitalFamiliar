@@ -133,3 +133,22 @@ A useful sharpened hypothesis is therefore:
 For the current research program, **expeditions** are a concrete class of such experiences.
 
 The important test is not whether every experience is copied into a central record. It is whether later participation can be different because the experience happened.
+
+
+## Adjacent observation: contextual compaction without dedicated memory machinery
+
+A recent Crucible → Clara handoff produced a small observation relevant to the reconstruction hypothesis.
+
+Crucible preserved a human/model exchange verbatim because the exchange itself was part of that project's chronological experimental evidence. Clara then encountered the same development through its own repository purpose and authority. Rather than copying the exchange into Clara continuity, the Clara research surface retained a narrower interpretation relevant to its adjacent questions and pointed back to Crucible for the authoritative chronology.
+
+In that instance, no explicit compaction algorithm, salience score, embedding store, memory schema, or summarization service enforced the difference. The destination context supplied enough constraint for a capable model to change the representation while retaining provenance.
+
+One useful candidate description is:
+
+**experience → preserved evidence → new context → local recovery → contextual compaction → provenance**
+
+This resembles the compaction/reconstruction possibility already under investigation, but it should not yet be promoted into project authority. One successful documentation handoff does not establish that contextual model judgment is reliable enough for long-lived continuity, that explicit memory machinery is unnecessary, or that the resulting compacted representation preserves what future encounters will actually need.
+
+What it does provide is a concrete neighboring case where “preserve everything centrally” was not required for one event to affect a different persistent surface. The source retained detail; the destination retained a transformed consequence of that detail; provenance kept reinterpretation possible.
+
+A useful future question is therefore not only **what must survive?** but **where can loss safely occur when the source remains recoverable?**
