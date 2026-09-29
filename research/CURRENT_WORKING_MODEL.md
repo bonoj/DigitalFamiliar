@@ -1,7 +1,7 @@
 # Current Working Model
 
 **Status:** provisional research synthesis  
-**Date:** 2026-09-27
+**Date:** 2026-09-29
 
 This note compresses the current investigation without promoting its hypotheses into project authority.
 
@@ -106,3 +106,30 @@ These are probes, not a testing program yet.
 Do not ask a familiar to perform continuity.
 
 Give a model-mediated locus somewhere continuity could become visible, then inspect what actually persists, recurs, changes, or fails.
+
+
+## New executable pressure: trajectory across expeditions
+
+Astra supplies a concrete neighboring case that the earlier synthesis did not yet have.
+
+Astra's persistent surface is not one world, one conversation, or one executable. The observable unit is a sequence of model-operated expeditions. Project repositories preserve the local work and its consequences. Astra's own repository can preserve whatever cross-project record later runs judge useful. A later discontinuous run can orient from those surfaces and enter new work without requiring the human to reconstruct the entire prior trajectory.
+
+This suggests three continuity surfaces that should remain analytically separate:
+
+**actor trajectory** — enough survives for later model-operated work to recover and extend a path across expeditions;
+
+**work trajectory** — project repositories preserve local authority, evidence, artifacts, failures, and consequences independently of any one model inference;
+
+**encounter trajectory** — a crossing can preserve enough shared situation for an independently instantiated model conversation to continue participating coherently.
+
+AstralBridge's first real run supplies evidence for the third surface. Ten manual crossings through one continuing Google AI Mode conversation accumulated consequences across sparse prompts, including a bare continuation gesture. The run also showed that cognitive continuity can be cheap while mechanical transport remains expensive.
+
+Astra and AstralBridge do not prove that trajectory is familiarhood. They make trajectory experimentally available without requiring us to first invent a familiar-shaped application.
+
+A useful sharpened hypothesis is therefore:
+
+> A digital familiar may be a model-mediated trajectory across experiences whose consequences make later participation recognizably and usefully different.
+
+For the current research program, **expeditions** are a concrete class of such experiences.
+
+The important test is not whether every experience is copied into a central record. It is whether later participation can be different because the experience happened.

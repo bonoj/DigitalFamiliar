@@ -31,11 +31,17 @@ Differences in what is available to a locus are legitimate experimental material
 
 This does not yet establish an attention, salience, perception, or memory architecture.
 
-### Continuity is an open question
+### Continuity is an open question, but trajectory is now a useful unit of observation
 
 Do not equate continuity with transcript retention, server-side conversational state, persistent local state, model memory, human recognition, artifacts, world consequences, or any one carrier.
 
 Several may contribute. None is currently established as the thing itself.
+
+Recent executable work makes a narrower distinction useful: continuity can be inspected as a **trajectory across discontinuous encounters or expeditions**, rather than only as state preserved inside one executable or conversation.
+
+A project can preserve the consequences and authority of an experience. A separate work record can make a model-operated trajectory across projects recoverable. A crossing mechanism can make an ongoing encounter recoverable to another independently instantiated model. These are distinct continuity surfaces and should not be collapsed into one memory mechanism.
+
+This does not establish that a trajectory is sufficient for familiarhood, or that any particular existing trajectory is a Digital Familiar.
 
 ### The executable is primary evidence
 
@@ -76,6 +82,10 @@ These remain available possibilities.
 
 ## Present finish line
 
-The repository is ready for its first executable expedition when one bounded uncertainty can be stated clearly enough that a small implementation could produce evidence distinguishing useful interpretations.
+The next useful work need not begin by creating a dedicated Digital Familiar executable.
 
-Until then, preserving uncertainty is preferable to filling the repository with speculative machinery.
+Adjacent executable experiments now expose a bounded uncertainty worth following: what must survive across expeditions for a discontinuous model-mediated trajectory to remain recoverable and meaningfully changed by what happened before?
+
+Observe and perturb that distinction before introducing machinery whose only purpose is to resemble a persistent entity.
+
+Preserving uncertainty remains preferable to filling this repository with speculative machinery.

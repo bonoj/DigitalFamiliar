@@ -44,6 +44,10 @@ Earlier experiments including Moth, Livesey, Clara, tactical play, embodied labo
 
 ## Current state
 
-There is deliberately no source tree or executable yet.
+Digital Familiar still has no dedicated executable of its own. That absence is no longer equivalent to having no executable evidence.
 
-The immediate task is to preserve the current question-space without prematurely choosing the first apparatus. The first implementation should begin only when a bounded uncertainty deserves an executable probe.
+Astra now provides a live adjacent probe of continuity across expeditions: discontinuous model-operated runs can orient from a persistent work record, enter project repositories with their own authority and evidence, perform new work, and leave consequences available to later runs. AstralBridge separately probes continuity across an encounter with an independently instantiated model.
+
+These are evidence-bearing neighboring experiments, not yet Digital Familiar architecture.
+
+The immediate task is to inspect what these trajectories actually preserve, lose, compress, and change before inventing a dedicated familiar runtime merely to make the project feel implemented.

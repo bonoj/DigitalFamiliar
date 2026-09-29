@@ -5,6 +5,16 @@
 
 These threads are preserved because they may produce useful expeditions. They are intentionally allowed to remain dormant indefinitely.
 
+## Trajectory across expeditions
+
+Astra makes it possible to study continuity without first building a familiar-shaped runtime.
+
+A discontinuous model-operated run can orient from a cross-project record, enter a project whose repository preserves its own local truth, perform work, and leave consequences for a later run. This creates a manipulable question: what information must cross expedition boundaries for later participation to be recognizably and usefully changed by earlier work?
+
+Useful probes could remove, compress, reorder, or selectively expose parts of that trajectory and inspect what actually changes. The goal is not to maximize context. It is to discover what earns persistence.
+
+Project evidence and actor trajectory should remain separate. A project can remember an experiment without requiring the cross-project record to duplicate its raw evidence.
+
 ## Continuity and reconstitution
 
 If every model inference is discontinuous, where does recognizable continuity actually live?
