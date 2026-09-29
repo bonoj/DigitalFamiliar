@@ -42,6 +42,8 @@ The distinction between semantic authority, provisional research, change archaeo
 
 Earlier experiments including Moth, Livesey, Clara, tactical play, embodied laboratories, and shared-world apparatus inform the questions recorded here. They are antecedent evidence, not requirements.
 
+Clara now also maintains a [research extraction of the Crucible orbital-locus expedition](https://github.com/bonoj/Clara/blob/main/research/CRUCIBLE_ORBITAL_LOCUS.md). The authoritative experiment remains in Crucible; the Clara surface records only adjacent evidence that may matter to a later Clara encounter. This is a reference edge, not a promotion of the orbital station into Clara identity or Digital Familiar architecture.
+
 ## Current state
 
 Digital Familiar still has no dedicated executable of its own. That absence is no longer equivalent to having no executable evidence.
