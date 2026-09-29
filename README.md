@@ -53,3 +53,5 @@ Astra now provides a live adjacent probe of continuity across expeditions: disco
 These are evidence-bearing neighboring experiments, not yet Digital Familiar architecture.
 
 The immediate task is to inspect what these trajectories actually preserve, lose, compress, and change before inventing a dedicated familiar runtime merely to make the project feel implemented.
+
+A new adjacent probe now sharpens that task. [Unzip City](https://github.com/bonoj/UnzipCity) has produced a deliberately lossy, provenance-bearing reform of Crucible's large Orbital Locus chronology and will hand it to a newly instantiated Clara without the outgoing conversation. The receiving model's selective recovery and subsequent work can provide evidence about whether consequential working context can survive model discontinuity in external, recoverable form. Success would not establish persistent identity or familiarhood; it would make one continuity mechanism more concrete without requiring a dedicated familiar runtime.
