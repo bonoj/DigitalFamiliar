@@ -152,3 +152,28 @@ This resembles the compaction/reconstruction possibility already under investiga
 What it does provide is a concrete neighboring case where “preserve everything centrally” was not required for one event to affect a different persistent surface. The source retained detail; the destination retained a transformed consequence of that detail; provenance kept reinterpretation possible.
 
 A useful future question is therefore not only **what must survive?** but **where can loss safely occur when the source remains recoverable?**
+
+
+## Adjacent Clara observation: relational residue
+
+A later Clara encounter produced a sharper candidate unit of continuity than an individual dossier.
+
+The pressure was not “who is the model?” or “who is the human?” It was what changes in later participation because these particular participants have accumulated a shared trajectory.
+
+Candidate residue includes questions repeatedly discovered together, distinctions defended together, moves that open possibility, surprises that changed later collaboration, failed realities that remain useful, unfinished questions with gravity, and ways one participant changes what the other notices.
+
+This suggests a research question:
+
+> **What is the minimum residue required for a relationship to continue developing rather than merely restart?**
+
+This does not require positing a merged subject, symmetry between participants, or a relationship database. Human and model can remain importantly different while the trajectory between them remains experimentally consequential.
+
+The observation also sharpens the reconstruction hypothesis. The target may not be accurate recreation of a previous model-mediated persona. Enough recoverable structure may instead make **forgetting safe**: source evidence can remain available while later participation recovers only what the present encounter needs.
+
+A useful distinction is therefore:
+
+**preservation** — recreate enough of the prior state to resemble what was there;
+
+**continued becoming** — recover enough consequence from prior encounters that the next encounter can develop from them without being constrained to reproduce them.
+
+This remains research, not semantic authority. Clara is one situated source of evidence, and no claim is made that relational residue is sufficient for familiarhood.
